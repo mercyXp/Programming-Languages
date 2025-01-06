@@ -1,2 +1,2 @@
 # Basics of Kotlin
-You can learn the basics <a href="https://developer.android.com/courses/pathways/android-development-with-kotlin-1">here</a>
+You can learn the basics <a href="https://developer.android.com/courses/pathways/android-development-with-kotlin-1">here</a> or <a href="https://developer.android.com/courses/android-basics-compose/course">here with Kotlin for android</a>
