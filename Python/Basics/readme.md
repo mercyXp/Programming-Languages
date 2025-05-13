@@ -18,16 +18,7 @@ Each task includes the topic(s) it focuses on, in **increasing order of difficul
 8. Convert temperature from Celsius to Fahrenheit. *(Variables, arithmetic)*
 9. Check if a year is a leap year. *(Conditionals, logic)*
 10. Get ASCII value of a character. *(ord(), strings)*
-11. Find the square and cube of a number.(Arithmetic operators, exponentiation)
-12. Calculate the simple interest. (Formula: SI = (P × R × T) / 100, variables, arithmetic)
-13. Find the remainder of two numbers.(Modulo operator, arithmetic)
-14. Check if a number is positive, negative, or zero.(If-elif-else statements)
-15. Accept two strings and concatenate them.(Input, strings, concatenation)
-16. Convert a number of days into weeks and days.(Integer division, modulo)
-17. Get the last digit of a number. (Modulo, arithmetic)
-18. Convert kilometers to miles.(Arithmetic, variables — 1 km = 0.621371 miles)
-19. Print multiplication table of a number (e.g., 7).(Loops, arithmetic)
-20. Take a number and calculate its square root.(math.sqrt(), type conversion, math module)
+
 
 ---
 
