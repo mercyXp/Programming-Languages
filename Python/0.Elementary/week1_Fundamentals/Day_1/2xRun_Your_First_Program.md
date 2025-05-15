@@ -1,8 +1,4 @@
-Here are clear, beginner-friendly **notes** for the topic: **Running Your First Python Program** using `print("Hello, World")`.
 
----
-
-````markdown
 # 🚀 Running Your First Python Program
 
 Now that Python and VS Code are set up, let's run your very first program!
