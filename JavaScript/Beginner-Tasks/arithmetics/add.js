@@ -1,1 +1,0 @@
-console.log(11 - 6); //subtraction
