@@ -1,10 +1,10 @@
-# 🧠 JavaScript Fundamentals: Let's Learn Script Building
+# JavaScript Fundamentals: Let's Learn Script Building
 
 Welcome to your journey into **JavaScript fundamentals**! This guide is designed to help you learn the core concepts of JavaScript in a structured and approachable way.
 
 ---
 
-## 📘 Topics Covered
+## Topics Covered
 
 1. **👋 Hello, World!**  
    Your first line of JavaScript — simple but powerful.
@@ -62,8 +62,6 @@ Welcome to your journey into **JavaScript fundamentals**! This guide is designed
 
 ---
 
-## 📂 How to Use This Repo
+## 📂 How to Use This Folder
 
-Each topic can be found in its own file or folder with clear examples and notes. Clone or download the repo and start experimenting:
-
-```bash
+Each topic can be found in its own file or folder with clear examples and notes. 
