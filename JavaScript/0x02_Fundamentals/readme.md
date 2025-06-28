@@ -62,8 +62,4 @@ Welcome to your journey into **JavaScript fundamentals**! This guide is designed
 
 ---
 
-## 📂 How to Use This Repo
 
-Each topic can be found in its own file or folder with clear examples and notes. Clone or download the repo and start experimenting:
-
-```bash
