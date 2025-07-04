@@ -1,10 +1,10 @@
-# JavaScript Basics Quiz
+# Quiz
 
 Test your understanding of statements, semicolons, and comments in JavaScript.
 
 ---
 
-### Question 1: Statements  
+### Question 1 
 What will be the output of the following code?
 ```javascript
 alert('Hello');
@@ -25,7 +25,7 @@ Both alerts will execute sequentially because they are separate statements prope
 
 ---
 
-### Question 2: Semicolon Insertion  
+### Question 2 
 Why does this code work without semicolons?
 ```javascript
 alert('Hello')
@@ -46,7 +46,7 @@ JavaScript performs automatic semicolon insertion (ASI) when line breaks exist, 
 
 ---
 
-### Question 3: Error Case  
+### Question 3
 What happens when you run this code?
 ```javascript
 alert("Hello")
@@ -68,7 +68,7 @@ Without the semicolon, JavaScript tries to read `alert("Hello")[1, 2]` as one st
 
 ---
 
-### Question 4: Comments  
+### Question 4 
 Which of these is a valid multiline comment?
 
 1. `// Comment //`  
@@ -85,7 +85,7 @@ Only `/* */` creates multiline comments in JavaScript. Option 1 is for single-li
 
 ---
 
-### Bonus Question: Nested Comments  
+### Bonus Question 
 Why does this code fail?
 ```javascript
 /*
