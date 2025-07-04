@@ -4,9 +4,9 @@
 ## Task 1: Working with variables
 **Importance: 2**
 
-1. Declare two variables: `admin` and `name`.
-2. Assign the value `"John"` to `name`.
-3. Copy the value from `name` to `admin`.
+1. Declare two variables: `admin` and `userName`.
+2. Assign the value `"John"` to `userName`.
+3. Copy the value from `userName` to `admin`.
 4. Show the value of `admin` using `alert` (must output "John").
 
 ---
