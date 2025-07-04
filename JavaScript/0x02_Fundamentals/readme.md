@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 #  📘JavaScript Fundamentals
-=======
-# JavaScript Fundamentals: Let's Learn Script Building
->>>>>>> 2edb690c9e8a8fcf14c5792e3823aad8746c374b
+## Let's Learn Script Building
 
 Welcome to your journey into **JavaScript fundamentals**! This guide is designed to help you learn the core concepts of JavaScript in a structured and approachable way.
 
@@ -65,11 +63,7 @@ Welcome to your journey into **JavaScript fundamentals**! This guide is designed
     Explore quirks, tricks, and gotchas unique to JS.
 
 ---
-
-<<<<<<< HEAD
-
-=======
 ## 📂 How to Use This Folder
 
 Each topic can be found in its own file or folder with clear examples and notes. 
->>>>>>> 2edb690c9e8a8fcf14c5792e3823aad8746c374b
+
