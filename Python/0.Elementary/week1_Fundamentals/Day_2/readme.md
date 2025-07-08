@@ -1,0 +1,1 @@
+Welcome to Day 2 of your Python journey!
