@@ -11,7 +11,8 @@ Welcome to your journey into **JavaScript fundamentals**! This guide is designed
 1. <a href="https://github.com/mercyXp/Programming-Languages/tree/main/JavaScript/0x02_Fundamentals/1.Hello_World"><b>Hello World!</b></a>  
    Your first line of JavaScript — simple but powerful.
 
-2. **Code Structure**  
+2. <a href="https://github.com/mercyXp/Programming-Languages/tree/main/JavaScript/0x02_Fundamentals/2.Code_Structure"><b>Code Structure</b></a>
+ 
    Understand how JavaScript code is organized and interpreted.
 
 3. **The Modern Mode: `"use strict"`**  
