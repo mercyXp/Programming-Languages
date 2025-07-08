@@ -176,6 +176,4 @@ else:
     print("Invalid credentials.")
 ```
 
----
-
 
