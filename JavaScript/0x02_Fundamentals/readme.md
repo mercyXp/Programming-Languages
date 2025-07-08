@@ -8,7 +8,7 @@ Welcome to your journey into **JavaScript fundamentals**! This guide is designed
 
 ## Topics Covered
 
-1. **Hello, World!**  
+1. <a href="https://github.com/mercyXp/Programming-Languages/tree/main/JavaScript/0x02_Fundamentals/1.Hello_World"><b>Hello World!</b></a>  
    Your first line of JavaScript — simple but powerful.
 
 2. **Code Structure**  
