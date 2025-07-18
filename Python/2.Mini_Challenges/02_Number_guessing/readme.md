@@ -1,0 +1,1 @@
+The idea behind this challenge is to generate random numbers and track how many times it takes the user to guess this number.

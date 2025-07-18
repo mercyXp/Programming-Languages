@@ -1,0 +1,1 @@
+This is a collection of python mini challenges to help you master and practice your python knowledge from beginner to advanced.

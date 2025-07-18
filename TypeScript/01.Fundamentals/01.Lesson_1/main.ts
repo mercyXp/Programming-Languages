@@ -1,0 +1,2 @@
+let username = 'Mercy'
+console.log(username) // Now type: tsc main.ts in the terminal || Just make sure you are in the same directory whre the .ts file is.You should see a .js file automatically created after running the command. If at all you make any changes you can

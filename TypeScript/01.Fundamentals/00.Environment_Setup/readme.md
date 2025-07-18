@@ -1,0 +1,1 @@
+Check out to (set up) your environment and start writing you TypeScript.
