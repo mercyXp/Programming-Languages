@@ -134,7 +134,7 @@ Avoid complex inheritance hierarchies. Prefer **composition over inheritance** w
 1. Create a class `BankAccount` with attributes: `owner_name`, `__balance`.
 2. Add methods to `deposit`, `withdraw`, and `show_balance`.
 3. Make sure the balance is private and accessible only via methods.
-
+ - solution to the task above is <a href="https://github.com/mercyXp/Programming-Languages/tree/main/Python/0.Elementary/week2_OOP/Day_1/practice_tasks">here>/a>
 ---
 
 ## 📚 Further Reading
