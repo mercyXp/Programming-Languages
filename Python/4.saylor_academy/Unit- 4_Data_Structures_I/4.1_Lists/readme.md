@@ -11,7 +11,12 @@ list1 = [19, 23, 18, 29]
 # 4) find the sum of all numbers in the modified list
 # 5) display the result
 ```
-### Exercise 2: Get the frequency of the elements in a list
+### Task 2: Get the frequency of the elements in a list
 ```python
 # Write a Python program to get the frequency of elements in a list.
+```
+
+### Task 3: Insert Element Before Each List Item
+```python
+# Write a Python program to insert an element before each element of a list.
 ```
