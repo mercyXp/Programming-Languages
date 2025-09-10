@@ -1,0 +1,1 @@
+This repo contains tasks from the `CS105: Introduction to Python` on <a href = "https://learn.saylor.org/course/view.php?id=439">Saylor Academy</a>
