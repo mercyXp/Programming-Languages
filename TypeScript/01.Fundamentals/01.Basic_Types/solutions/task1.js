@@ -1,0 +1,1 @@
+var isOnline = true;
